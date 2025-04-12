@@ -92,7 +92,7 @@ Method: Used dask.dataframe.read_csv() to load the dataset in a distributed mann
 
 Output: Previewed the first few rows using df.head().
 
-4. Data Cleaning
+2. Data Cleaning
 
 Objective: Clean the data by addressing missing values and converting data to appropriate formats.
 
