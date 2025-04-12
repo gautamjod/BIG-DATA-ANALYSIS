@@ -143,5 +143,13 @@ Identified customers with the most consistent spending (lowest variance in spend
 -Repeat Customers:
 
 Detected repeat customers by counting their number of orders.
+
 -Sensitive Customers:
+
 Identified customers with high spend but low review ratings, which may indicate dissatisfaction or churn risk.
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/1e16ebb8-6938-436d-a90a-720a18522283)
+
+![Image](https://github.com/user-attachments/assets/37446218-a973-472c-97c1-1bb327e1a136)
