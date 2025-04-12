@@ -20,17 +20,25 @@ The dataset contains information about customer purchases, including:
 
 CustomerID
 Item 
+
 Amount
+
 Date  
+
 Review 
+
 Payment 
 
 Technologies Used
 
 -Python: Primary programming language.
+
 -Dask: For distributed data processing to handle large datasets that may not fit into memory.
+
 -Pandas: For data manipulation in conjunction with Dask.
+
 -Matplotlib & Seaborn: (Optional) for visualization (if you decide to add visualization).
+
 CSV Files: The format of the raw dataset.
 
 Dataset Description
